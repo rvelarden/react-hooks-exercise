@@ -1,0 +1,32 @@
+{
+    "dragons": [
+      {
+        "id": 1,
+        "name": "Toothless",
+        "description": "A Night Fury",
+        "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+        "atWar": true
+      },
+      {
+        "id": 2,
+        "name": "Tomar",
+        "description": "He is Fire, He is Death",
+        "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+        "atWar": true
+      },
+      {
+        "id": 3,
+        "name": "Bozar",
+        "description": "An uninteresting dragon",
+        "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+        "atWar": true
+      },
+      {
+        "name": "idk",
+        "description": "it doesnt know",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/035259b7-7e65-4962-8f38-426cdbebc7ec/dbxbvgi-372a06ae-5dcd-424b-a823-e0e4c134e9f4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMDM1MjU5YjctN2U2NS00OTYyLThmMzgtNDI2Y2RiZWJjN2VjXC9kYnhidmdpLTM3MmEwNmFlLTVkY2QtNDI0Yi1hODIzLWUwZTRjMTM0ZTlmNC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.qBp2WWseZl4SNDV_2iA7UkOLYRgJ6VYbjJL7V8qxTts",
+        "atWar": false,
+        "id": 5
+      }
+    ]
+  }

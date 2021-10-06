@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Romina",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/DisneyShopping/6101036512835"
+    },
+   { 
+     "id": 1,
+      "name": "Chelsea",
+      "image": "https://m.media-amazon.com/images/I/61dTYKO7dKL._AC_SL1500_.jpg"
+      "likes" ""
+    }
+  ]
+ 
+}

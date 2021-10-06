@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Romina",
+      "image": "typicode"
+    },
+   { 
+     "id": 1,
+      "name": "Romina",
+      "image": "typicode"}
+  ]
+ 
+}
